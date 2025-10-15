@@ -1,3 +1,4 @@
 Team Number: 2조
 Team leader: 김주훈
 Team Leader: 20241050
+Project 03 version1 completed
